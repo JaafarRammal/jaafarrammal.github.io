@@ -1,14 +1,11 @@
-<!-- ![logo](profile.png) -->
+![logo](./logo192.png)
 
-# Hi, I'm Jaafar!
+# Hi, I'm Jaafar <small>Rammal</small>
 
-> Some title
-
-- P1
-- P2
-- P3
+A Computer Engineering student at Imperial College with interest in Robotics and Software Development. <br>
+I'm based in London, and always open to new and interesting projects! <br>
+In my free time, I enjoy outdoor sports and music.
 
 [Linkedin](https://www.linkedin.com/in/jaafar-rammal-686aa4174/)
-[Explore](home.md)
-
-![color](#ffffff)
+[Github](https://github.com/JaafarRammal)
+[Explore!](home.md)

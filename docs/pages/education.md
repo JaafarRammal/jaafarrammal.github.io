@@ -74,9 +74,9 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 
 </div>
 <div style="text-align: center; width: 500px; vertical-align: middle; padding: 0px 40px; margin-top: 40px">
-  <img style="border-radius: 20px;" src="/assets/education/imperial1.jpg"/>
+  <img style="border-radius: 20px;" src="/assets/education/imperial1.JPG"/>
   <div style="height: 20px"></div>
-  <img style="border-radius: 20px;" src="/assets/education/imperial2.jpg"/>
+  <img style="border-radius: 20px;" src="/assets/education/imperial2.JPG"/>
   <div style="height: 20px"></div>
 </div>
 </div>
@@ -100,7 +100,7 @@ You can learn more about GLFL by visiting their [home page](https://www.glfl.edu
 
 </div>
 <div style="text-align: center; width: 500px; vertical-align: middle; padding: 0px 40px; margin-top: 40px">
-  <img style="border-radius: 20px;" src="/assets/education/glfl.jpg"/>
+  <img style="border-radius: 20px;" src="/assets/education/glfl.JPG"/>
   <div style="height: 20px"></div>
 </div>
 </div>

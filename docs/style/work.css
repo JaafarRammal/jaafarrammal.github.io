@@ -79,7 +79,7 @@
 .timeline .event:after {
   -webkit-box-shadow: 0 0 0 3px;
   box-shadow: 0 0 0 3px #2c3e50;
-  left: -30px;
+  left: -55.8px;
   background: #2c3e50;
   border-radius: 50%;
   height: 9px;
@@ -123,6 +123,12 @@
   padding: 5px;
   border: 0.2px solid #2c3e50;
   border-radius: 10px;
+  display: inline-block;
+  margin-top: 10px
+}
+
+.text-right {
+  display: inline-block;
 }
 
 /* Custom ends */

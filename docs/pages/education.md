@@ -3,7 +3,7 @@
 <!-- Imperial  -->
 <div style="display: flex; flex-wrap: wrap;">
 
-<div style="text-align: justify; width: 500px; vertical-align: middle">
+<div style="text-align: left; width: 500px; vertical-align: middle">
 
 ## Imperial College
 
@@ -20,7 +20,7 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 <!-- Year 3 -->
 ### Year 3
 <p>Modules:
-<ul style="column-count: 2; text-align: left">
+<ul style="column-count: 2;">
   <li>Accounting</li>
   <li>Advanced Computer Architecture II</li>
   <li>Computer Vision</li>
@@ -36,7 +36,7 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 ### Year 2
 <p>Dean’s List for Academic Excellence, average 79.54/100 (class top 10%)  
 <p>Modules:
-<ul style="column-count: 2; text-align: left">
+<ul style="column-count: 2;">
   <li>Communication Systems</li>
   <li>Computer Architecture II</li>
   <li>Computing Labs</li>
@@ -56,7 +56,7 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 ### Year 1
 <p>Dean’s List for Academic Excellence, average 75.39/100 (class top 10%)</p>
 <p>Modules:
-<ul style="column-count: 2; text-align: left">
+<ul style="column-count: 2;">
     <li>Algorithms & Data Structures</li>
     <li>Analysis of Circuits</li>
     <li>Computer Architecture</li>
@@ -73,10 +73,10 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 
 
 </div>
-<div style="text-align: center; width: 500px; vertical-align: middle; padding: 0px 20px; margin-top: 40px">
-  <img style="border-radius: 20px; margin-left: 20px" src="assets/education/imperial1.jpg"/>
+<div style="text-align: center; width: 500px; vertical-align: middle; padding: 0px 40px; margin-top: 40px">
+  <img style="border-radius: 20px;" src="/assets/education/imperial1.jpg"/>
   <div style="height: 20px"></div>
-  <img style="border-radius: 20px; margin-left: 20px" src="assets/education/imperial2.jpg"/>
+  <img style="border-radius: 20px;" src="/assets/education/imperial2.jpg"/>
   <div style="height: 20px"></div>
 </div>
 </div>
@@ -84,7 +84,7 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 <!-- GLFL -->
 <div style="display: flex; flex-wrap: wrap;">
 
-<div style="text-align: justify; width: 500px; vertical-align: middle">
+<div style="text-align: left; width: 500px; vertical-align: middle">
 
 ## Grand Lycée Franco Libanais
 
@@ -99,8 +99,8 @@ Those 3 years were very packed, full of learning and lessons, joy and events, an
 You can learn more about GLFL by visiting their [home page](https://www.glfl.edu.lb).
 
 </div>
-<div style="text-align: center; width: 500px; vertical-align: middle; padding: 0px 20px; margin-top: 40px">
-  <img style="border-radius: 20px; margin-left: 20px" src="assets/education/glfl.jpg"/>
+<div style="text-align: center; width: 500px; vertical-align: middle; padding: 0px 40px; margin-top: 40px">
+  <img style="border-radius: 20px;" src="/assets/education/glfl.jpg"/>
   <div style="height: 20px"></div>
 </div>
 </div>

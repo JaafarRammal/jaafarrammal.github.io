@@ -13,6 +13,10 @@ This project was part of Year 3 Embed Systems at Imperial College, and was done 
 
 This project was part of Year 3 Embed Systems at Imperial College, and was done in a group of 4. The goal was to explore real-time systems by building a music synthesiser. Our final deliverable supported advanced features such as track recording and overlay, polyphone, varying BPM, and multiple instruments. More details can be found on the [project page](https://raii-baby.web.app). You can also [view the demo on youtube](https://www.youtube.com/watch?v=6zuwbCWyY9g).
 
+## Hardware Accelerator
+
+This project was part of Year 3 Digital System Design at Imperial College, and was done in a pairs with Marian Lukac.
+
 ## MIPS-C Compiler
 
 ## MIPS Simulator

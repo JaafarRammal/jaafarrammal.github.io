@@ -7,7 +7,7 @@
 
 <div style="text-align: justify; width: 500px; vertical-align: middle">
 
-Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a Computer Engineering student at Imperial College and working as an FDSE at Palantir Technologies. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! In my free time, I enjoy outdoor sports and music.
+Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a Computer Engineering student at Imperial College and working as an FDSE at Palantir Technologies. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! In my free time, I enjoy outdoor sports and music, as well as reading about history and cultures.
 
 </div>
 <div style="text-align: center; width: 500px; vertical-align: middle;"><img style="max-height:200px;" src="assets/profile.png"/></div>
@@ -33,13 +33,13 @@ Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a Comput
   
 </div>
 
-<div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/competitions.md'">
+<!-- <div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/competitions.md'">
 
   <h4>Competitions</h4>
 
   From FIRST® robotics tournaments to hackathons and CTFs, I enjoy taking part in competitions to learn new skills and meet amazing people.
   
-</div>
+</div> -->
 
 <div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/projects.md'">
 
@@ -49,13 +49,13 @@ Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a Comput
   
 </div>
 
-<div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/hobbies.md'">
+<!-- <div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/hobbies.md'">
 
   <h4>Hobbies</h4>
 
   In my free time, I enjoy sports (calisthenics, kyokushin / muaythai, and volleyball) or playing the guitar.
   
-</div>
+</div> -->
 </div>
 
 ## What I do

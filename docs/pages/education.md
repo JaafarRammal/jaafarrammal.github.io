@@ -92,7 +92,7 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 
 **Beirut, Lebanon**
 
-I have completed my French Baccalaureate at the GLFL in Beirut. The qualification involved the Serie S in the French System as well as IB in Arabic and History
+I have completed my French Baccalaureate at the GLFL in Beirut. The qualification involved the Serie S in the French System as well as IB in Arabic and History. I also ranked 5th internationally in the Concours Général for Arabic (see page 6 of [this document](http://cache.media.education.gouv.fr/file/07_-_Juillet/53/6/CONCOURS_GENERAL_Palmares_national_2018_19juin2018_982536.pdf))
 
 Those 3 years were very packed, full of learning and lessons, joy and events, and making new friends.
 

@@ -17,41 +17,41 @@ Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a Comput
 
 <div style="display: flex; flex-wrap: wrap;">
 
-<div style="width: 400px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/education.md'">
+<div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/education.md'">
 
-  #### Education
+  <h4>Education</h4>
 
   I am studying EIE (Computer Engineering) at Imperial College London and plan to graduate in 2022 with an Integrated Masters degree (MEng).
   
 </div>
 
-<div style="width: 400px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/work.md'">
+<div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/work.md'">
 
-  #### Work Experience
+  <h4>Work Experience</h4>
 
   I've interned in both software and hardware engineering roles, and open for diverse work locations or environments. I'm currently an FDSE at Palantir Technologies.
   
 </div>
 
-<div style="width: 400px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/competitions.md'">
+<div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/competitions.md'">
 
-  #### Competitions
+  <h4>Competitions</h4>
 
   From FIRST® robotics tournaments to hackathons and CTFs, I enjoy taking part in competitions to learn new skills and meet amazing people.
   
 </div>
 
-<div style="width: 400px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/projects.md'">
+<div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/projects.md'">
 
-  #### Projects
+  <h4>Projects</h4>
 
   I've explored various topics and fields between robotics, hardware, and software projects.
   
 </div>
 
-<div style="width: 400px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/hobbies.md'">
+<div style="width: 500px; margin: 2% 2% 2% 0%; box-shadow: 5px 5px #dddddd; background-color: #eeeeee; padding: 20px; padding-top: 0px" onclick="location.href='/#/pages/hobbies.md'">
 
-  #### Hobbies
+  <h4>Hobbies</h4>
 
   In my free time, I enjoy sports (calisthenics, kyokushin / muaythai, and volleyball) or playing the guitar.
   
@@ -100,7 +100,7 @@ Through various competitions, educational topics, and projects, I have developed
 
   #### Robotics
 
-  Through robotics competitions and personal projects, I explored **CAD modeling** with **Fusion360**, creating **custom drivers,MCL-based navigation**, and **construction / assembly practices** using various tools.
+  Through robotics competitions and personal projects, I explored **CAD modeling** with **Fusion360**, creating **custom drivers, MCL-based navigation**, and **construction / assembly practices** using various tools.
 
 </div>
 

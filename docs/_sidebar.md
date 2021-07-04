@@ -3,6 +3,6 @@
 * [Welcome](pages/home.md)
 * [Education](pages/education.md)
 * [Work Experience](pages/work.md)
-* Interests
-* Projects
-* Awards
+* [Projects](pages/projects.md)
+* [Competition](pages/competitions.md)
+* [Hobbies](pages/hobbies.md)

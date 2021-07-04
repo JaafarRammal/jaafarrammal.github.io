@@ -4,5 +4,5 @@
 * [Education](pages/education.md)
 * [Work Experience](pages/work.md)
 * [Projects](pages/projects.md)
-* [Competition](pages/competitions.md)
+* [Competitions](pages/competitions.md)
 * [Hobbies](pages/hobbies.md)

@@ -111,3 +111,45 @@ Through various competitions, educational topics, and projects, I have developed
   Through Hackathons and software projects, I've been able to lead or manage small teams of 4-6 devs. These experiences helped me learn management techniques such as **Agile** or **Sprints** as well as improve my **communication** skills.
 
 </div></div>
+
+## Skills
+
+<ul style="column-count: 2;">
+<li>Computing
+  <ul>
+    <li>C++, Java, Swift, Python, PySpark</li>
+    <li>NodeJS, Typescript, Javascript, HTML, CSS</li>
+    <li>ARM, MIPS assembly</li>
+    <li>SQL, MongoDB</li>
+  </ul>
+</li>
+<br>
+<li>Hardware
+  <ul>
+    <li>CAD (Fusion360)</li>
+    <li>3D printing</li>
+    <li>Embed programming</li>
+    <li>Verilog, FPGAs</li>
+    <li>Arduino, Raspberry Pi</li>
+  </ul>
+</li>
+</ul>
+
+<ul style="column-count: 2;">
+<li>Languages
+  <ul>
+    <li>Arabic</li>
+    <li>French</li>
+    <li>English</li>
+    <li>Spanish</li>
+  </ul>
+</li>
+<br>
+<li>Tools & Frameworks
+  <ul>
+    <li>Xcode, AndroidStudio, VSCode, Adobe Illustrator</li>
+    <li>Version Control (Git)</li>
+    <li>Bootstrap, Angular, React</li>
+  </ul>
+</li>
+</ul>

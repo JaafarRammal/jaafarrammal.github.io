@@ -8,5 +8,5 @@ In my free time, I enjoy outdoor sports and music.
 
 [Linkedin](https://www.linkedin.com/in/jaafar-rammal-686aa4174/)
 [Github](https://github.com/JaafarRammal)
-[Download CV](https://github.com/JaafarRammal/jaafarrammal.github.io/raw/main/docs/assets/CV.pdf)
+[Download CV](https://www.jaafarrammal.com/assets/CV.pdf)
 [Explore!](pages/home.md)

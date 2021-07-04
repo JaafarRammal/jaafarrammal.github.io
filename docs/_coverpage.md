@@ -8,4 +8,4 @@ In my free time, I enjoy outdoor sports and music.
 
 [Linkedin](https://www.linkedin.com/in/jaafar-rammal-686aa4174/)
 [Github](https://github.com/JaafarRammal)
-[Explore!](home.md)
+[Explore!](pages/home.md)

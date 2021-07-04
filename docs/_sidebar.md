@@ -1,7 +1,8 @@
 <!-- different sidebar sections + linking the corresponding pages -->
 
-* [Welcome](home.md)
-<!-- * Work Experience
+* [Welcome](pages/home.md)
+* [Education](pages/education.md)
+* [Work Experience](pages/work.md)
 * Interests
 * Projects
-* Awards -->
+* Awards

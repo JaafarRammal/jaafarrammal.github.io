@@ -44,7 +44,7 @@ Through various competitions, educational topics, and projects, I have developed
 
 </div>
 
-<div style="background-color: #ffffdd; width: 500px; margin: 2% 2% 2% 0%; padding: 0px 20px 10px 20px">
+<div style="background-color: #ddddff; width: 500px; margin: 2% 2% 2% 0%; padding: 0px 20px 10px 20px">
 
   #### HARDWARE DESIGN
 
@@ -52,7 +52,7 @@ Through various competitions, educational topics, and projects, I have developed
 
 </div>
 
-<div style="background-color: #ddffff; width: 500px; margin: 2% 2% 2% 0%; padding: 0px 20px 10px 20px">
+<div style="background-color: #ffdddd; width: 500px; margin: 2% 2% 2% 0%; padding: 0px 20px 10px 20px">
 
   #### ROBOTICS
 
@@ -60,7 +60,7 @@ Through various competitions, educational topics, and projects, I have developed
 
 </div>
 
-<div style="background-color: #ffddff; width: 500px; margin: 2% 2% 2% 0%; padding: 0px 20px 10px 20px">
+<div style="background-color: #ddffdd; width: 500px; margin: 2% 2% 2% 0%; padding: 0px 20px 10px 20px">
 
   #### PROJECT MANAGEMENT
 

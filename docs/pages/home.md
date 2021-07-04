@@ -7,10 +7,10 @@
 
 <div style="text-align: justify; width: 500px; margin-right: 50px; vertical-align: middle">
 
-Welcome to my personal website! I'm Jaafar, from South Lebanon. I'm currently a Computer Engineering student at Imperial College and working as an FDSE at Palantir Technologies. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! In my free time, I enjoy outdoor sports and music.
+Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a Computer Engineering student at Imperial College and working as an FDSE at Palantir Technologies. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! In my free time, I enjoy outdoor sports and music.
 
 </div>
-<div style="width: 250px; margin-bottom: 2%"><img align="left" style="max-height:200px;" src="assets/profile.png"/></div>
+<div style="text-align: center; width: 500px; margin-right: 50px; vertical-align: middle;"><img style="max-height:200px;" src="assets/profile.png"/></div>
 </div>
 
 <div style="display: flex; flex-wrap: wrap;">

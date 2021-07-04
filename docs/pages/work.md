@@ -6,10 +6,18 @@ My work interests vary between software engineering, hardware engineering, and r
   <link rel="stylesheet" type="text/css" href="/style/work.css" media="screen" />
   <ul class="timeline">
     <li class="event" data-date="May 2021 - Present">
-      <h1>FDSE Intern</h1>
+      <h1>Forward Deployed Software Engineer</h1>
       <h2>Palantir Technologies</h2>
       <p>(coming soon)</p>
       <div class="text-right"></div>
+    </li>
+    <li class="event" data-date="April 2020 - June 2021">
+      <h1>Founder at Startup</h1>
+      <h2>CloseRangeTechnologies</h2>
+      <p> The startup bridging hardware and software founded in the wake of covid, working on post-pandemic technologies. We originally started with a P2P contact tracer, Coronaware, which we pitched to NHSx and other government officials. After this project, we worked on a digital dashboard to accelerate the handover process at hospitals.</p>
+      <div class="text-right">
+        <small class="tag">iOS</small><small class="tag">Android</small><small class="tag">Covid</small><small class="tag">Healthcare</small><small class="tag">ReactJS</small><small class="tag">GraphQL</small>
+      </div>
     </li>
     <li class="event" data-date="Oct 2019 - Present">
       <h1>Part-time positions</h1>

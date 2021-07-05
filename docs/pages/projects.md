@@ -45,6 +45,7 @@ This project was part of Year 3 Embed Systems at Imperial College, and was done 
 
 This project was part of Year 3 Embed Systems at Imperial College, and was done in a group of 4. The goal was to explore real-time systems by building a music synthesiser. Our final deliverable supported advanced features such as track recording and overlay, polyphone, varying BPM, and multiple instruments. More details can be found on the [project page](https://raii-baby.web.app) (with details about the collaborators).
 
+<div style="display: flex; flex-wrap: wrap;">
 <div style="width: 500px; margin: 2%">
   <iframe
       height="300px"
@@ -55,6 +56,7 @@ This project was part of Year 3 Embed Systems at Imperial College, and was done 
       webkitallowfullscreen="webkitallowfullscreen"
       src="https://www.youtube.com/embed/6zuwbCWyY9g">
   </iframe>
+</div>
 </div>
 
 ## Hardware Accelerator
@@ -81,6 +83,7 @@ This project was part of Year 2 Computer Architecture at Imperial, and was done 
 
 This project was part of Year 1 Final Year Project at Imperial, and was done in a group of 3 with Maelle Guerre and Victor Florea. We built a real-time image processing module on an FPGA which was able to detect the flap motion (with the hands) of a person standing in front of the screen / camera. The flaps would then be used to control the bird character in a custom-built version of flappy bird.
 
+<div style="display: flex; flex-wrap: wrap;">
 <div style="width: 500px; margin: 2%">
   <iframe
       height="300px"
@@ -91,6 +94,7 @@ This project was part of Year 1 Final Year Project at Imperial, and was done in 
       webkitallowfullscreen="webkitallowfullscreen"
       src="https://www.youtube.com/embed/Gdy9L31zuA0">
   </iframe>
+</div>
 </div>
 
 ## Jafadrian ISA

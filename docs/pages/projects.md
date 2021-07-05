@@ -3,7 +3,7 @@
 <!-- Uni project -->
 ## Real-Time Vocals filter
 
-This project was part of Year 3 Real-Time Digital Signal Processing at Imperial College, and was done in pairs with Karl-Kareem Melaimi. The goal was to explore a solution that would make use of a DSP board (TMS320F28379D) to filter vocals from music in real-time. You can learn more by checking our [project report](https://www.jaafarrammal.com/assets/projects/rtdsp.pdf)
+This project was part of Year 3 Real-Time Digital Signal Processing at Imperial College, and was done in pairs with Karl-Kareem Melaimi. The goal was to explore a solution that would make use of a DSP board (TMS320F28379D) to filter vocals from music in real-time. You can learn more by checking our [project report](https://www.jaafarrammal.com/assets/projects/rtdsp.pdf).
 
 ## IOT: Internet Of Trash
 
@@ -15,9 +15,11 @@ This project was part of Year 3 Embed Systems at Imperial College, and was done 
 
 ## Hardware Accelerator
 
-This project was part of Year 3 Digital System Design at Imperial College, and was done in a pairs with Marian Lukac.
+This project was part of Year 3 Digital System Design at Imperial College, and was done in pairs with Marian Lukac. The goal was to design a hardware accelerator for a complex mathematical function, which involved CORDIC, pipelining, DMA, and other hardware concepts on a Cyclone V FPGA. You can learn more by checking our [project report](https://www.jaafarrammal.com/assets/projects/dsd.pdf).
 
-## MIPS-C Compiler
+<!-- ## MIPS-C Compiler
+
+This project was part of Year 2 Language Processors at Imperial College, and was done in pairs with Raphael Bijaoui. The goal 
 
 ## MIPS Simulator
 
@@ -29,4 +31,4 @@ This project was part of Year 3 Digital System Design at Imperial College, and w
 
 ## Intro to Xcode: MacOS Cryptogramme
 
-## Encryption and ML with Wolfram Alpha
+## Encryption and ML with Wolfram Alpha -->

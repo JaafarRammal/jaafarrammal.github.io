@@ -63,7 +63,7 @@ This project was part of Year 3 Embed Systems at Imperial College, and was done 
 
 <small>Jan 2021 - Apr 2021</small>
 
-This project was part of Year 3 Digital System Design at Imperial College, and was done in pairs with Marian Lukac. The goal was to design a hardware accelerator for a complex mathematical function, which involved CORDIC, pipelining, DMA, and other hardware concepts on a Cyclone V FPGA. You can learn more by checking our [project report](https://www.jaafarrammal.com/assets/projects/dsd.pdf).
+This project was part of Year 3 Digital System Design at Imperial College, and was done in pairs with Marian Lukac. The goal was to design a hardware accelerator for a complex mathematical function, which involved CORDIC, pipelining, DMA, and other hardware concepts on a Cyclone V FPGA. You can learn more by checking our project report (kindly email me to request access).
 
 ## MIPS-C Compiler
 

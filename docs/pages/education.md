@@ -17,7 +17,7 @@ Beside the course itself, the community at Imperial is uniquely diversified. I g
 
 More information about the course can be found [here](http://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electronic-information-meng/)
 
-(In years 3 and 4, I am limited to a certain number of modules during the year, or didn't have access to register the module for credit, so I just took it for interest)
+(In years 3 and 4, for some modules, I was either limited to a maximum number of modules for the year, or simply was not allowed to take the module for credit (e.g. Reinforcement Learning). Therefore these are not on my uni transcript but I still did them on the side)
 
 <!-- Year 4 -->
 ### Year 4

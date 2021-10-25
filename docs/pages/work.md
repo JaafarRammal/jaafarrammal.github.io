@@ -4,11 +4,13 @@ My work interests vary between software engineering, hardware engineering, and r
 
 <link rel="stylesheet" type="text/css" href="/style/work.css" media="screen" />
 <div class="timeline">
-  <li class="event" data-date="May 2021 - Present">
+  <li class="event" data-date="May 2021 - Oct 2021">
     <h1>Forward Deployed Software Engineer</h1>
     <h2>Palantir Technologies</h2>
-    <p>(details coming soon after the internship)</p>
-    <div class="text-right"></div>
+    <p>Life Sciences R&D for preclinical safety</p>
+    <div class="text-right">
+      <small class="tag">Foundry</small><small class="tag">Python</small><small class="tag">PySpark</small>
+    </div>
   </li>
   <li class="event" data-date="April 2020 - June 2021">
     <h1>Founder at Startup</h1>

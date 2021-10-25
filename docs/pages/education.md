@@ -11,14 +11,33 @@
 
 **London, UK**
 
-I am currently a penultimate year undergraduate student at Imperial, pursuing an MEng in Electronics and Information Engineering (or Computer Engineering)
+I am currently a final year undergraduate student at Imperial, pursuing an MEng in Electronics and Information Engineering (or Computer Engineering)
 
-Beside the course itself, the community at Imperial is uniquely diversified. I get to meet new people continously at various events, and each person is amazing in their own way. Imperial is really the perfect place to build a solid network for a future career
+Beside the course itself, the community at Imperial is uniquely diversified. I get to meet new people continously at various events, and each person is amazing in their own way.
 
 More information about the course can be found [here](http://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electronic-information-meng/)
 
+(In years 3 and 4, I am limited to a certain number of modules during the year, or didn't have access to register the module for credit, so I just took it for interest)
+
+<!-- Year 4 -->
+### Year 4
+<p>Modules:
+<ul style="column-count: 2;">
+  <li>Computer Vision & Pattern Recognition</li>
+  <li>Design for Additive Manufacturing</li>
+  <li>Entrepreneurship Online</li>
+  <li>Final Year Project</li>
+  <li>Hardware & Software Verification</li>
+  <li>Human-Centered Robotics</li>
+  <li>Privacy Engineering</li>
+  <li>Reinforcement Learning</li>
+  <li>(Robotics Learning & Control?)</li>
+  <li>Self Organizing Multi-Agent Systems</li>
+</ul>
+
 <!-- Year 3 -->
 ### Year 3
+<p>Average 77.31/100 (class top 15%)
 <p>Modules:
 <ul style="column-count: 2;">
   <li>Accounting</li>

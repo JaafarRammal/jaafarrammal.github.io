@@ -68,7 +68,7 @@ Through various competitions, educational topics, and projects, I have developed
 
   #### Frontend
 
-  I have experience building webapps using **React, Angular, TypeScript, JavaScript, HTML, and CSS.** An example is this website built using React-Typescript! I also have experience building iOS native apps using **Swift** and **SwiftUI**.
+  I have experience building webapps using **React, Angular, TypeScript, JavaScript, HTML, and CSS.** I also have experience building iOS native apps using **Swift** and **SwiftUI**.
   
 </div>
   

@@ -7,7 +7,7 @@
 
 <div style="text-align: justify; width: 500px; vertical-align: middle">
 
-Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a Computer Engineering student at Imperial College and working as an FDSE at Palantir Technologies. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! In my free time, I enjoy outdoor sports and music, as well as reading about history and cultures.
+Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a final year Computer Engineering student at Imperial College and working part-time as a Full Stack Software Engineer <a href="tryterra.co" target="_blank">Terra</a>. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! In my free time, I enjoy outdoor sports and music, as well as reading about history and cultures.
 
 </div>
 <div style="text-align: center; width: 500px; vertical-align: middle;"><img style="max-height:200px;" src="assets/profile.png"/></div>

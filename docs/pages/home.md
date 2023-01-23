@@ -7,7 +7,7 @@
 
 <div style="text-align: justify; width: 500px; vertical-align: middle">
 
-Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a final year Computer Engineering student at Imperial College and working part-time as a Full Stack Software Engineer at <a href="tryterra.co" target="_blank">Terra</a>. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! In my free time, I enjoy outdoor sports and music, as well as reading about history and cultures.
+Welcome to my personal website! I'm Jaafar, from Lebanon. I've graduated from Imperial College as a Computer Engineering. I'm currently working at <a href="https://www.palantir.com/uk/" target="_blank">Palantir Technologies</a>. Prior, I was at <a href="tryterra.co" target="_blank">Terra (YC 21)</a> for about a year and a half. I have huge interest in Robotics and Software Development. I'm based in London, and always open to new and interesting projects! Side projects are always cooking here :) so feel free to get in touch.
 
 </div>
 <div style="text-align: center; width: 500px; vertical-align: middle;"><img style="max-height:200px;" src="assets/profile.png"/></div>
@@ -21,7 +21,7 @@ Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a final 
 
   <h4>Education</h4>
 
-  I am studying EIE (Computer Engineering) at Imperial College London and plan to graduate in 2022 with an Integrated Masters degree (MEng).
+ Integrated Masters degree (MEng) in EIE (Computer Engineering) at Imperial College London.
   
 </div>
 
@@ -29,7 +29,7 @@ Welcome to my personal website! I'm Jaafar, from Lebanon. I'm currently a final 
 
   <h4>Work Experience</h4>
 
-  I've interned in both software and hardware engineering roles, and open for diverse work locations or environments. I'm currently an FDSE at Palantir Technologies.
+  I've interned in both software and hardware engineering roles, and open for diverse work locations or environments. I'm currently an FDSE at Palantir Technologies, and worked at startups such as Terra before.
   
 </div>
 

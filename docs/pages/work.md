@@ -4,7 +4,36 @@ My work interests vary between software engineering, hardware engineering, and r
 
 <link rel="stylesheet" type="text/css" href="/style/work.css" media="screen" />
 <div class="timeline">
-  <li class="event" data-date="Dec 2022 - Current">
+  <li class="event" data-date="Jan 2023 - Current">
+    <h1>Forward Deployed Software Engineer</h1>
+    <h2>Palantir Technologies</h2>
+    <p>(coming soon)</p>
+    <div class="text-right">
+      <small class="tag">Foundry</small>
+    </div>
+  </li>
+  <li class="event" data-date="Oct 2022 - Current">
+    <h1>Co-founder & CTO</h1>
+    <h2>DeltaCrypt GmbH</h2>
+    <p>Digital payment solution</p>
+    <div class="text-right">
+      <small class="tag">Full Stack</small><small class="tag">Sales</small>
+    </div>
+  </li>
+  <li class="event" data-date="Nov 2022 - Jan 2023">
+    <h1>Full Stack Software Engineer</h1>
+    <h2>Terra (Enabling Developers) - YC 21</h2>
+    <ul>
+      <li>Frontend components supporting our API</li>
+      <li>Backend and infrasructure for our API</li>
+      <li>Sales and customer success</li>
+      <li>Client-facing work involving integration support and feature requests</li>
+    </ul>
+    <div class="text-right">
+      <small class="tag">Frontend</small><small class="tag">Backend</small><small class="tag">Sales</small>
+    </div>
+  </li>
+  <li class="event" data-date="Nov 2022 - Jan 2023">
     <h1>Full Stack Software Engineer</h1>
     <h2>Terra (Enabling Developers)</h2>
     <ul>
@@ -25,7 +54,7 @@ My work interests vary between software engineering, hardware engineering, and r
     </div>
   </li>
   <li class="event" data-date="April 2020 - June 2021">
-    <h1>Founder at Startup</h1>
+    <h1>Co-founder & CTO</h1>
     <h2>CloseRangeTechnologies</h2>
     <p> The startup bridging hardware and software founded in the wake of covid, working on post-pandemic technologies. We originally started with a P2P contact tracer, Coronaware, which we pitched to NHSx and other government officials. After this project, we worked on a digital dashboard to accelerate the handover process at hospitals.</p>
     <div class="text-right">

@@ -33,18 +33,6 @@ My work interests vary between software engineering, hardware engineering, and r
       <small class="tag">Frontend</small><small class="tag">Backend</small><small class="tag">Sales</small>
     </div>
   </li>
-  <li class="event" data-date="Nov 2022 - Jan 2023">
-    <h1>Full Stack Software Engineer</h1>
-    <h2>Terra (Enabling Developers)</h2>
-    <ul>
-      <li>Frontend components supporting our API</li>
-      <li>Backend and infrasructure for our API</li>
-      <li>Client-facing work for integration support and feature requests</li>
-    </ul>
-    <div class="text-right">
-      <small class="tag">Frontend</small><small class="tag">Backend</small><small class="tag">Clients</small>
-    </div>
-  </li>
   <li class="event" data-date="May 2021 - Oct 2021">
     <h1>Forward Deployed Software Engineer</h1>
     <h2>Palantir Technologies</h2>

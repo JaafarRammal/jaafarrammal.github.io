@@ -11,16 +11,16 @@
 
 **London, UK**
 
-I am currently a final year undergraduate student at Imperial, pursuing an MEng in Electronics and Information Engineering (or Computer Engineering)
+I graduated from Imperial with an MEng in Electronics and Information Engineering (or Computer Engineering)
 
 Beside the course itself, the community at Imperial is uniquely diversified. I get to meet new people continously at various events, and each person is amazing in their own way.
 
 More information about the course can be found [here](http://www.imperial.ac.uk/study/ug/courses/electrical-engineering-department/electronic-information-meng/)
 
-(In years 3 and 4, for some modules, I was either limited to a maximum number of modules for the year, or simply was not allowed to take the module for credit (e.g. Reinforcement Learning). Therefore these are not on my uni transcript but I still did them on the side)
-
 <!-- Year 4 -->
+
 ### Year 4
+
 <p>Modules:
 <ul style="column-count: 2;">
   <li>Computer Vision & Pattern Recognition</li>
@@ -31,12 +31,14 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
   <li>Human-Centered Robotics</li>
   <li>Privacy Engineering</li>
   <li>Reinforcement Learning</li>
-  <li>(Robotics Learning & Control?)</li>
+  <li>Robotics Learning & Control</li>
   <li>Self Organizing Multi-Agent Systems</li>
 </ul>
 
 <!-- Year 3 -->
+
 ### Year 3
+
 <p>Average 77.31/100 (class top 15%)
 <p>Modules:
 <ul style="column-count: 2;">
@@ -52,7 +54,9 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 </ul>
 
 <!-- Year 2 -->
+
 ### Year 2
+
 <p>Dean’s List for Academic Excellence, average 79.54/100 (class top 10%)  
 <p>Modules:
 <ul style="column-count: 2;">
@@ -72,7 +76,9 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
 </ul>
 
 <!-- Year 1 -->
+
 ### Year 1
+
 <p>Dean’s List for Academic Excellence, average 75.39/100 (class top 10%)</p>
 <p>Modules:
 <ul style="column-count: 2;">
@@ -89,7 +95,6 @@ More information about the course can be found [here](http://www.imperial.ac.uk/
     <li>User-centered Systems</li>
     <li>Year Group Design Project</li>
 </ul>
-
 
 </div>
 <div style="text-align: center; width: 500px; vertical-align: middle; padding: 0px 40px; margin-top: 40px">

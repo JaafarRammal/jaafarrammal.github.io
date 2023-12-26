@@ -7,12 +7,16 @@ My work interests vary between software engineering, hardware engineering, and r
   <li class="event" data-date="Jan 2023 - Current">
     <h1>Forward Deployed Software Engineer</h1>
     <h2>Palantir Technologies</h2>
-    <p>(coming soon)</p>
+    <ul>
+      <li>Oil & Gas</li>
+      <li>Carbon & Sustainability</li>
+      <li>AI & Process Mining</li>
+    </ul>
     <div class="text-right">
       <small class="tag">Foundry</small>
     </div>
   </li>
-  <li class="event" data-date="Oct 2022 - Current">
+  <li class="event" data-date="Oct 2022 - Sometime 2023">
     <h1>Co-founder & CTO</h1>
     <h2>DeltaCrypt GmbH</h2>
     <p>Digital payment solution</p>

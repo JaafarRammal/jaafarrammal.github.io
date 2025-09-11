@@ -1,23 +1,24 @@
 # Work Experience
 
-My work interests vary between software engineering, hardware engineering, and robotics. I'm also flexible with working in either an established company or a startup.
+My work interests vary between software engineering, hardware engineering, and robotics.
 
 <link rel="stylesheet" type="text/css" href="/style/work.css" media="screen" />
 <div class="timeline">
-  <li class="event" data-date="Jan 2023 - Current">
+  <li class="event" data-date="Jan 2023 - Oct 2025">
     <h1>Forward Deployed Software Engineer</h1>
     <h2>Palantir Technologies</h2>
     <ul>
-      <li>Oil & Gas</li>
+      <li>AI Dev Tool</li>
+      <li>AI Process Mining</li>
+      <li>Oil & Gas Production Optimization</li>
       <li>Carbon & Sustainability</li>
-      <li>AI & Process Mining</li>
     </ul>
     <div class="text-right">
       <small class="tag">Foundry</small>
     </div>
   </li>
-  <li class="event" data-date="Oct 2022 - Sometime 2023">
-    <h1>Co-founder & CTO</h1>
+  <li class="event" data-date="Oct 2022 - Aug 2023">
+    <h1>Technical Advisor</h1>
     <h2>DeltaCrypt GmbH</h2>
     <p>Digital payment solution</p>
     <div class="text-right">

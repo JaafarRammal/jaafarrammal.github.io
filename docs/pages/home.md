@@ -6,7 +6,7 @@
 
 <div style="text-align: justify; width: 500px; vertical-align: middle">
 
-Welcome to my personal website! I'm Jaafar, from Lebanon. I've graduated from Imperial College as a Computer Engineering. I'm currently working at <a href="https://www.palantir.com/uk/" target="_blank">Palantir Technologies</a>. I like to build things, history, and philosophy. I'm based in London, and always open to new and interesting projects! Side projects are always cooking here :) so feel free to get in touch.
+Welcome to my personal website! I'm Jaafar, from Lebanon. I've graduated from Imperial College as a Computer Engineer. After working at <a href="https://www.palantir.com/uk/" target="_blank">Palantir Technologies</a>, I'm now exploring new ideas and building things I'm passionate about. I like to build things, history, and philosophy. I'm based in London, and always open to new and interesting projects! Side projects are always cooking here :) so feel free to get in touch.
 
 </div>
 <div style="text-align: center; width: 500px; vertical-align: middle;"><img style="max-height:300px; border-radius: 40px" src="assets/profile_3.png"/></div>
@@ -28,7 +28,7 @@ Integrated Masters degree (MEng) in EIE (Computer Engineering) at Imperial Colle
 
   <h4>Work Experience</h4>
 
-I've interned in both software and hardware engineering roles, and open for diverse work locations or environments. I'm currently an FDSE at Palantir Technologies, and worked at startups before.
+I've interned in both software and hardware engineering roles, and am open for diverse work locations or environments. Most recently, I was an FDSE at Palantir Technologies, and have also worked at startups.
 
 </div>
 
